@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  og-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-09T14:42:57.469118656Z"
+    description: A Helm chart for Kubernetes
+    digest: 6612face6be2c5635fd4a82e1f5ef06b353615217a1a2393ffb9f2a3f130b7ca
+    name: og-chart
+    type: application
+    urls:
+    - https://github.com/ottimis/og-chart/releases/download/og-chart-0.1.0/og-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-09T14:42:57.469124356Z"
